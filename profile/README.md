@@ -3,7 +3,7 @@
 
 [Website][Website]
 
-Complete IT solutions, hardware, and custom-built computers for businesses and end users.
+Hardware, IT supplies, and custom computers for modern businesses and professionals.
 </div>
 
 [Website]: https://www.hantritech.com
