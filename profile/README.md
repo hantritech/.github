@@ -3,6 +3,7 @@
 
 [Website][Website]
 
+Complete IT solutions, hardware, and custom-built computers for businesses and end users.
 </div>
 
 [Website]: https://www.hantritech.com
